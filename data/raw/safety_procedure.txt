@@ -1,0 +1,9 @@
+SAFETY PROCEDURE — COMPRESSOR
+
+Operators must not attempt manual intervention while the
+compressor is operating above the emergency pressure threshold.
+
+For pressure above 85 bar, emergency shutdown must be initiated.
+
+All maintenance activities must be performed after isolation
+and lockout procedures have been completed.

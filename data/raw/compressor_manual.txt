@@ -1,0 +1,18 @@
+COMPRESSOR OPERATING MANUAL
+
+Section 1: Normal Operation
+
+The compressor should normally operate between 60 and 80 bar.
+The recommended operating pressure under standard load conditions
+is between 65 and 75 bar.
+
+Section 2: Temperature
+
+The bearing temperature should normally remain below 80°C.
+If the bearing temperature exceeds 85°C, the operator should
+inspect the lubrication system.
+
+Section 3: Emergency Conditions
+
+If compressor pressure exceeds 85 bar, initiate the emergency
+shutdown procedure and inspect the pressure control system.

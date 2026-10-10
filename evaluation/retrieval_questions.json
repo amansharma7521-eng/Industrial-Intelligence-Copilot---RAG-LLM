@@ -1,0 +1,34 @@
+[
+    {
+        "query": "What is the normal temperature limit for the bearing?",
+    "relevant_chunks":[
+        "compressor_manual_004"
+    ]
+    },
+    {
+        "query": "What should happen if the compressor pressure becomes too high?",
+        "relevant_chunks":[
+            "compressor_manual_006",
+            "compressor_manual_002"
+        ]
+    
+    },
+    {
+         "query": "What happened to machine C-17?",
+         "relevant_chunks":[ "maintenance_report_002",
+                             "maintenance_report_003",
+                             "maintenance_report_004"
+    ]
+    },
+    {
+        "query": "What lubrication problem was observed?",
+        "relevant_chunks":["maintenance_report_002"
+                        ]
+    },
+    {
+        "query": "How should maintenance activities be performed?",
+        "relevant_chunks": ["safety_procedure_003"
+    ]
+    }
+]
+

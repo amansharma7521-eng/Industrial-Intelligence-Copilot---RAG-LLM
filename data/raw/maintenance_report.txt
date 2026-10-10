@@ -1,0 +1,12 @@
+MAINTENANCE REPORT — MACHINE C-17
+
+Date: 14 August 2026
+
+The compressor experienced abnormal vibration during operation.
+Inspection identified insufficient lubrication in the drive-end
+bearing.
+
+The bearing temperature reached 91°C before shutdown.
+
+The pressure remained within the normal operating range during
+the incident.
